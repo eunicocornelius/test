@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is master
 i'm editing this file
+=======
+this is master danny
+>>>>>>> ec9c56136a86daa2f035e2728d4505e5783d9038
